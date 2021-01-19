@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 // Component that holds file layout
-import Layout from "./hoc/Layout/Layout";
+import Layout from "./hoc/Aux/Aus";
 import BurgerBuilder from "./containers/BurgerBuilder/BurgerBuilder";
 
 class App extends Component {
